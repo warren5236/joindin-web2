@@ -10,7 +10,7 @@ permissions:
   contents: read
 
 jobs:
-  build.sh:
+  build_sh:
     name: "build.sh"
 
     runs-on: ubuntu-latest
